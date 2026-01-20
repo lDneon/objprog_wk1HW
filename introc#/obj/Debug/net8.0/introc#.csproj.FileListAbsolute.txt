@@ -1,0 +1,15 @@
+C:\object_programming\objprog_wk1HW\introc#\introc#\bin\Debug\net8.0\introc#.exe
+C:\object_programming\objprog_wk1HW\introc#\introc#\bin\Debug\net8.0\introc#.deps.json
+C:\object_programming\objprog_wk1HW\introc#\introc#\bin\Debug\net8.0\introc#.runtimeconfig.json
+C:\object_programming\objprog_wk1HW\introc#\introc#\bin\Debug\net8.0\introc#.dll
+C:\object_programming\objprog_wk1HW\introc#\introc#\bin\Debug\net8.0\introc#.pdb
+C:\object_programming\objprog_wk1HW\introc#\introc#\obj\Debug\net8.0\introc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\object_programming\objprog_wk1HW\introc#\introc#\obj\Debug\net8.0\introc#.AssemblyInfoInputs.cache
+C:\object_programming\objprog_wk1HW\introc#\introc#\obj\Debug\net8.0\introc#.AssemblyInfo.cs
+C:\object_programming\objprog_wk1HW\introc#\introc#\obj\Debug\net8.0\introc#.csproj.CoreCompileInputs.cache
+C:\object_programming\objprog_wk1HW\introc#\introc#\obj\Debug\net8.0\introc#.sourcelink.json
+C:\object_programming\objprog_wk1HW\introc#\introc#\obj\Debug\net8.0\introc#.dll
+C:\object_programming\objprog_wk1HW\introc#\introc#\obj\Debug\net8.0\refint\introc#.dll
+C:\object_programming\objprog_wk1HW\introc#\introc#\obj\Debug\net8.0\introc#.pdb
+C:\object_programming\objprog_wk1HW\introc#\introc#\obj\Debug\net8.0\introc#.genruntimeconfig.cache
+C:\object_programming\objprog_wk1HW\introc#\introc#\obj\Debug\net8.0\ref\introc#.dll
